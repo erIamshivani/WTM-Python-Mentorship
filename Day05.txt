@@ -1,3 +1,3 @@
 Created Heroku Server with Flask.
 
-Link of Demo app: [Click Here](https://wtm-flaskapp.herokuapp.com/)
+Link of Demo app: https://wtm-flaskapp.herokuapp.com/
