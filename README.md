@@ -1,6 +1,6 @@
 # WTM-Python-Mentorship
 
-*The Following Things Were Covered In WTM Mentorshi Program.*
+*The Following Things Were Covered In WTM Mentorship Program.*
 
 ## Day 1: Comments, Variable Types, Operators, Flow Control, Loop Statements 
 
